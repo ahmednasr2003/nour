@@ -1,0 +1,33 @@
+header
+{
+  min-height: 100vh;
+  background:
+  linear-gradient(rgba(0,0,0,.7) , rgba(0,0,0,.7)),
+  url(../images//lawyer1.jpg);
+
+  background-position: center;
+  background-size: cover;
+
+
+}
+
+.section
+{
+  background-color: rgb(194, 173, 19);
+}
+
+
+.section2
+{
+  background-color: rgb(137, 89, 79);
+
+}
+i
+{
+  font-size: 40px;
+}
+
+footer
+{
+  background-color: #333333;
+}
